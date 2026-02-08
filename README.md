@@ -3,9 +3,7 @@
 
 ## 🎬 Demo
 
-https://github.com/user-attachments/assets/demo.mp4
 
-*Watch the full demo: [demo.mp4](./demo.mp4)*
 
 ## 🎯 Project Overview
 
